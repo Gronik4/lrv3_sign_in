@@ -1,0 +1,17 @@
+{
+    "name": "gronw/lrv3_sign_in",
+    "description": "фреймворк Laravel - Авторизация",
+    "autoload": {
+        "psr-4": {
+            "Gronw\\Lrv3SignIn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gronik4",
+            "email": "golegni@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
