@@ -1,7 +1,7 @@
 Все домашки по Laravel: https://github.com/netology-code/lrv-homeworks/tree/lrv-3/
 Дз №2 по блоку Laravel: https://github.com/netology-code/lrv-homeworks/tree/lrv-3/002-basics
 ДЗ №1: https://github.com/netology-code/lrv-homeworks/tree/lrv-3/001-intro
-ДЗ №3: 
+ДЗ №3: https://github.com/netology-code/lrv-homeworks/blob/lrv-3/003-middleware/exercise-02.md
 
 Официальная документация:https://laravel.com/
 На русском:https://laravel.su/
@@ -13,7 +13,8 @@
        Все нормально пока не дохожу до php artisan migrate время на записи 7:59.
        После этой команды в терминале ошибка- " SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер
         отверг запрос на подключение (Connection: mysql, SQL: select * from information_schema.tables where table_schema =
-        laravel and table_name = migrations and table_type = 'BASE TABLE')
+        laravel and table_name = migrations and table_type = 'BASE TABLE').
+        Лечится: Проект должен быть подготовлен, с устанвленной БД и всеми настройками.
   3. Общее замечание ко всем лекциям курса: Ни где не дается точка отсчета. То есть: ни где не сказано в каком состоянии д.б. 
       проект, что там должно быть установлено, в каком файле пишем приводимый код. Особенно касается "продвинутый Js" - где 
       рассказывается об установке рабочего окружения, "продвинутый JS в браузуре". И "Laravel" - где все последующие изменения 
